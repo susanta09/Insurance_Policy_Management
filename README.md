@@ -260,7 +260,7 @@ Integrity Exception Handling and Data validation
 ### How to Run Local Server
 <hr style="border:2px solid green">
 
-1. Goto my GitHub link.
+1. Goto my GitHub link--" https://github.com/susanta09/Insurance_Policy_Management.git"
 1. Then goto __code__ Option then click.
 1. then click *Download ZIP* for download ZIP file for Project.
 1. Create a folder with any name Extract the downloaded ZIP file.
